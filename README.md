@@ -10,7 +10,7 @@ The preferred way to install this extension is through [composer](http://getcomp
 Run:
 
 ```
-php composer.phar require sbilyalov/yii2-softdelete "*"
+php composer.phar require  --prefer-dist sbilyalov/yii2-softdelete "*"
 ```
 
 or add
