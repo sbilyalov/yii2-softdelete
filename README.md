@@ -2,6 +2,26 @@
 
 This behaviour added soft-delete functionality to your active record
 
+
+##Installation
+
+The preferred way to install this extension is through [composer](http://getcomposer.org/download/).
+
+Run:
+
+```
+php composer.phar require sbilyalov/yii2-softdelete "*"
+```
+
+or add
+
+```
+"sbilyalov/yii2-softdelete": "*"
+```
+
+to your `composer.json` file.
+
+
 ## Usage
 
 ```php
