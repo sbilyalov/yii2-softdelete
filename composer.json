@@ -1,0 +1,23 @@
+{
+  "name": "sbilyalov/yii2-softdelete",
+  "description": "Soft delete behavior for Yii2 framework",
+  "type": "yii2-behavior",
+  "keywords": [
+    "yii2", "behavior", "soft delete",
+    "soft-delete", "delete behavior"
+  ],
+  "authors": [
+    {
+      "name": "Seydamet Bilyalov",
+      "email": "bseydamet@gmail.com"
+    }
+  ],
+  "require": {
+    "yiisoft/yii2": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "sbilyalov\\yii2\\behaviors\\": ""
+    }
+  }
+}
